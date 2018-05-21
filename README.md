@@ -29,3 +29,5 @@ To run tests in Node:
 ```js
 npm test
 ```
+
+![static comp design](https://i.imgur.com/8eQr70q.png)
