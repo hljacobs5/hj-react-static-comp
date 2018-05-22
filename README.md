@@ -1,23 +1,3 @@
-# React Starter Kit
-
-To install the dependencies:
-
-```
-npm install
-```
-
-To fire up a development server:
-
-```
-npm start
-```
-
-Once the server is running, you can visit:
-
-* `http://localhost:8080/`
-
---------------------------------
-
 # React Static Comp
 
 ### Specification
@@ -55,3 +35,6 @@ You can gather ideas for the responsive design based on [Medium's website](https
 - Begin to understand writing in JSX
 - Begin to understand passing data through props
 - Have a sandbox in which to practice working with React
+
+![static comp design](https://i.imgur.com/8eQr70q.png)
+
