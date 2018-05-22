@@ -10,7 +10,7 @@ const stories = [
     img: '/public/story1.jpg',
     title: 'Winning at Fonts',
     desc: 'or, Why you should care about typography',
-    authImg: './louisa.png',
+    authImg: '/public/louisa.png',
     authName: 'Louisa',
     estTime: '2 min'
   },
